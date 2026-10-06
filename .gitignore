@@ -1,0 +1,12 @@
+# Local data
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# Build output
+/bin/
+*.exe
+
+# Environment
+.env
